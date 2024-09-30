@@ -1,6 +1,6 @@
 body {
     /* background-color: #f8f9fa; */
-    background-color: rgb(248, 249, 100);
+    background-color: rgb(248, 249, 250);
 }
 .character-card {
     margin: 20px;
@@ -9,7 +9,7 @@ body {
     transition: transform 0.2s;
 }
 .character-card:hover {
-    scale:1.8;
+    scale:1.2;
 }
 .character-img {
     width: 100%;
